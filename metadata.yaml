@@ -1,0 +1,34 @@
+_repo: Fire-b-A-quarterly-devoted-to-the-younger-Negro-artists-Volume-1-Number-1_71448
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Thurman, Wallace
+    gutenberg_agent_id: '56240'
+    url: http://www.gutenberg.org/2009/agents/56240
+description: ''
+gutenberg_issued: '2023-08-19'
+identifiers:
+  gutenberg: '71448'
+language: en
+pgterms:marc904: https://collections.library.yale.edu/catalog/15947166?child_oid=15947295
+pgterms:marc905: 20220920171209thurman
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Carla Foust, Beinecke Rare Book and Manuscript
+  Library at Yale University and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bEditorial Offices, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fire!! : $b A quarterly devoted to the younger Negro artists, Volume 1, Number
+  1'
+url: http://www.gutenberg.org/ebooks/71448
