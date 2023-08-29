@@ -1,5 +1,8 @@
 _repo: Fire-b-A-quarterly-devoted-to-the-younger-Negro-artists-Volume-1-Number-1_71448
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71448-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '56240'
     url: http://www.gutenberg.org/2009/agents/56240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71448#Fire-b-A-quarterly-devoted-to-the-younger-Negro-artists-Volume-1-Number-1
 gutenberg_issued: '2023-08-19'
 identifiers:
   gutenberg: '71448'
